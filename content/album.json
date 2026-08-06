@@ -1,0 +1,133 @@
+{
+  "items": [
+    {
+      "year": "2026",
+      "albums": [
+        {
+          "title": "제118회 박사 · 제144회 석사 학위수여식",
+          "cover": "images/uploads/2026-graduation-01.jpg",
+          "photos": [
+            {
+              "image": "images/uploads/2026-graduation-01.jpg",
+              "caption": "학위수여식"
+            },
+            {
+              "image": "images/uploads/2026-graduation-02.jpg",
+              "caption": "학위수여식"
+            }
+          ]
+        },
+        {
+          "title": "2026년 하계 한국전기전자재료학회",
+          "cover": "images/uploads/2026-conference-01.jpg",
+          "photos": [
+            {
+              "image": "images/uploads/2026-conference-01.jpg",
+              "caption": "2026년 하계 한국전기전자재료학회"
+            },
+            {
+              "image": "images/uploads/2026-conference-02.jpg",
+              "caption": "2026년 하계 한국전기전자재료학회"
+            },
+            {
+              "image": "images/uploads/2026-conference-03.jpg",
+              "caption": "2026년 하계 한국전기전자재료학회"
+            },
+            {
+              "image": "images/uploads/2026-conference-04.jpg",
+              "caption": "2026년 하계 한국전기전자재료학회"
+            },
+            {
+              "image": "images/uploads/2026-conference-05.jpg",
+              "caption": "2026년 하계 한국전기전자재료학회"
+            },
+            {
+              "image": "images/uploads/2026-conference-06.jpg",
+              "caption": "2026년 하계 한국전기전자재료학회"
+            },
+            {
+              "image": "images/uploads/2026-conference-07.jpg",
+              "caption": "2026년 하계 한국전기전자재료학회"
+            },
+            {
+              "image": "images/uploads/2026-conference-08.jpg",
+              "caption": "2026년 하계 한국전기전자재료학회"
+            },
+            {
+              "image": "images/uploads/2026-conference-09.jpg",
+              "caption": "2026년 하계 한국전기전자재료학회"
+            },
+            {
+              "image": "images/uploads/2026-conference-10.jpg",
+              "caption": "2026년 하계 한국전기전자재료학회"
+            }
+          ]
+        },
+        {
+          "title": "2026년 NANO KOREA",
+          "cover": "images/uploads/2026-conferenceNK-01.jpg",
+          "photos": [
+            {
+              "image": "images/uploads/2026-conferenceNK-01.jpg",
+              "caption": "2026년 NANO KOREA"
+            },
+            {
+              "image": "images/uploads/2026-conferenceNK-02.jpg",
+              "caption": "2026년 NANO KOREA"
+            },
+            {
+              "image": "images/uploads/2026-conferenceNK-03.jpg",
+              "caption": "2026년 NANO KOREA"
+            }
+          ]
+        },
+        {
+          "title": "2026년 연구실 회식",
+          "cover": "images/uploads/2026-dinner-01.jpg",
+          "photos": [
+            {
+              "image": "images/uploads/2026-dinner-01.jpg",
+              "caption": "연구실 회식"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "albums": []
+    },
+    {
+      "year": "2024",
+      "albums": []
+    },
+    {
+      "year": "2023",
+      "albums": []
+    },
+    {
+      "year": "2022",
+      "albums": []
+    },
+    {
+      "year": "2021",
+      "albums": []
+    },
+    {
+      "year": "2020",
+      "albums": []
+    },
+    {
+      "year": "2019",
+      "albums": []
+    },
+    {
+      "year": "2018",
+      "albums": []
+    },
+    {
+      "year": "2017",
+      "albums": []
+    }
+  ]
+}

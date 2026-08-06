@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 336" width="420" height="336" role="img" aria-label="전기화학 에너지 변환">
+<defs>
+ <linearGradient id="anolyte" x1="0" y1="0" x2="0" y2="1">
+   <stop offset="0" stop-color="#CFE7F6"/><stop offset="1" stop-color="#A9D2EA"/></linearGradient>
+ <linearGradient id="catholyte" x1="0" y1="0" x2="0" y2="1">
+   <stop offset="0" stop-color="#D4EFE4"/><stop offset="1" stop-color="#AEDDC8"/></linearGradient>
+ <radialGradient id="pb" cx="36%" cy="30%"><stop offset="0" stop-color="#5FB6E0"/><stop offset="1" stop-color="#1361A0"/></radialGradient>
+ <radialGradient id="pg2" cx="36%" cy="30%"><stop offset="0" stop-color="#7ED3A6"/><stop offset="1" stop-color="#2E8B57"/></radialGradient>
+</defs>
+
+<!-- power supply -->
+<rect x="156" y="10" width="108" height="36" rx="8" fill="#FFF" stroke="#0A2540" stroke-width="3.4"/>
+<text x="180" y="35" font-size="22" font-weight="700" fill="#1273B0" font-family="Arial">–</text>
+<path d="M208 18 L200 30 L210 30 L202 42" stroke="#1273B0" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="240" y="35" font-size="20" font-weight="700" fill="#C0392B" font-family="Arial">+</text>
+<path d="M156 28 L112 28 L112 74" stroke="#0A2540" stroke-width="5" fill="none" stroke-linecap="round"/>
+<path d="M264 28 L308 28 L308 74" stroke="#C0392B" stroke-width="5" fill="none" stroke-linecap="round"/>
+
+<!-- cell body -->
+<rect x="98" y="74" width="224" height="150" rx="8" fill="#FFF" stroke="#0A2540" stroke-width="3.4"/>
+<rect x="104" y="80" width="103" height="138" fill="url(#anolyte)"/>
+<rect x="213" y="80" width="103" height="138" fill="url(#catholyte)"/>
+<!-- membrane -->
+<rect x="205" y="74" width="10" height="150" fill="#D8CBAE" stroke="#0A2540" stroke-width="2"/>
+
+<!-- porous electrodes -->
+<g fill="url(#pb)">
+  <circle cx="140" cy="98" r="6"/><circle cx="156" cy="106" r="6"/><circle cx="140" cy="122" r="6"/>
+  <circle cx="156" cy="138" r="6"/><circle cx="140" cy="150" r="6"/><circle cx="156" cy="170" r="6"/>
+  <circle cx="140" cy="182" r="6"/><circle cx="156" cy="200" r="6"/><circle cx="140" cy="206" r="6"/>
+  <circle cx="168" cy="120" r="6"/><circle cx="168" cy="158" r="6"/><circle cx="168" cy="190" r="6"/>
+  <circle cx="126" cy="110" r="5.5"/><circle cx="126" cy="166" r="5.5"/><circle cx="126" cy="196" r="5.5"/>
+</g>
+<g fill="url(#pg2)">
+  <circle cx="252" cy="98" r="6"/><circle cx="268" cy="106" r="6"/><circle cx="252" cy="122" r="6"/>
+  <circle cx="268" cy="138" r="6"/><circle cx="252" cy="150" r="6"/><circle cx="268" cy="170" r="6"/>
+  <circle cx="252" cy="182" r="6"/><circle cx="268" cy="200" r="6"/><circle cx="252" cy="206" r="6"/>
+  <circle cx="280" cy="120" r="6"/><circle cx="280" cy="158" r="6"/><circle cx="280" cy="190" r="6"/>
+  <circle cx="294" cy="110" r="5.5"/><circle cx="294" cy="166" r="5.5"/><circle cx="294" cy="196" r="5.5"/>
+</g>
+
+<!-- bubbles -->
+<g fill="#FFFFFF" opacity=".85">
+  <circle cx="118" cy="96" r="4"/><circle cx="132" cy="136" r="3.4"/><circle cx="120" cy="176" r="4.4"/>
+  <circle cx="176" cy="112" r="3.4"/><circle cx="182" cy="188" r="4"/>
+  <circle cx="238" cy="100" r="4"/><circle cx="230" cy="146" r="3.4"/><circle cx="242" cy="190" r="4.4"/>
+  <circle cx="300" cy="132" r="3.6"/><circle cx="290" cy="212" r="3.4"/>
+</g>
+
+<!-- inputs / outputs -->
+<g font-family="Arial, sans-serif">
+  <text x="18" y="112" font-size="19" font-weight="700" fill="#1273B0">H<tspan font-size="12" dy="5">2</tspan><tspan dy="-5">O</tspan></text>
+  <path d="M64 104 L92 104" stroke="#1273B0" stroke-width="4" stroke-linecap="round"/>
+  <path d="M88 98 L100 104 L88 110 Z" fill="#1273B0"/>
+
+  <text x="20" y="192" font-size="19" font-weight="700" fill="#1273B0">O<tspan font-size="12" dy="5">2</tspan></text>
+  <path d="M92 184 L64 184" stroke="#1273B0" stroke-width="4" stroke-linecap="round"/>
+  <path d="M68 178 L56 184 L68 190 Z" fill="#1273B0"/>
+
+  <text x="356" y="150" font-size="21" font-weight="700" fill="#2E8B57">H<tspan font-size="13" dy="5">2</tspan></text>
+  <path d="M328 142 L352 142" stroke="#2E8B57" stroke-width="4" stroke-linecap="round"/>
+  <path d="M348 136 L360 142 L348 148 Z" fill="#2E8B57"/>
+</g>
+
+<!-- performance mini-chart -->
+<g transform="translate(96,238)">
+  <rect x="0" y="0" width="106" height="62" rx="5" fill="#F2F7FA" stroke="#DCE7EE" stroke-width="1.5"/>
+  <path d="M12 50 L96 50 M12 50 L12 10" stroke="#8FA8BC" stroke-width="1.6" fill="none"/>
+  <path d="M12 49 C34 47 52 34 66 22 C76 14 86 11 94 10" stroke="#1273B0" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M12 49 C36 48 56 42 72 34 C82 29 89 26 94 24" stroke="#9BAAB7" stroke-width="2.4" fill="none" stroke-dasharray="4 4" stroke-linecap="round"/>
+  <text x="53" y="76" text-anchor="middle" font-size="12" font-weight="700" fill="#0A2540" font-family="Pretendard, Arial">성능</text>
+</g>
+<g transform="translate(218,238)">
+  <rect x="0" y="0" width="106" height="62" rx="5" fill="#F2F7FA" stroke="#DCE7EE" stroke-width="1.5"/>
+  <path d="M12 50 L96 50 M12 50 L12 10" stroke="#8FA8BC" stroke-width="1.6" fill="none"/>
+  <path d="M12 20 L94 20" stroke="#1273B0" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M12 22 C40 24 66 32 94 43" stroke="#9BAAB7" stroke-width="2.4" fill="none" stroke-dasharray="4 4" stroke-linecap="round"/>
+  <text x="53" y="76" text-anchor="middle" font-size="12" font-weight="700" fill="#0A2540" font-family="Pretendard, Arial">내구성</text>
+</g>
+</svg>

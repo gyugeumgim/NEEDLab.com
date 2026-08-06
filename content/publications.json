@@ -1,0 +1,604 @@
+{
+  "items": [
+    {
+      "year": "2026",
+      "no": 63,
+      "authors": "Hyeonseok Lee, Tai The Mai, Wooseok Jeong, Jin Young Kim, Yoonsu Park, Yun Jae Hwang, Boeun An, Yeongbin Lee, Gyuhyeon Kim, Heesoo Jeong, Yujeong Ahn, Chanbi Kim, Dong Hwan Wang, Segeun Jang*, Don-Hyung Ha*",
+      "title": "Ni–P Nanoarray Scaffolds that Elevate Self-Supported Phosphides and Commercial Catalysts for Alkaline and Anion-Exchange-Membrane Water Electrolysis",
+      "journal": "Small",
+      "link": "https://doi.org/10.1002/smll.74129",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2026",
+      "no": 62,
+      "authors": "Yeongbin Lee†, Seohyeon Jang†, Seokjin Hong, Seoyeon Jeong, Ju Young Kim, Wooseok Jeong, Hyeonseok Lee, Gyuhyeon Kim, Hyungbin Son, Sang Hyun Ahn*, Inho Nam*, Don-Hyung Ha*",
+      "title": "Deciphering Interfacial Electronic Interactions Between Iridium Oxide and Ni-Based Supports for High-Current-Density Anion Exchange Membrane Water Electrolysis",
+      "journal": "Small",
+      "link": "https://doi.org/10.1002/smll.74025",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2026",
+      "no": 61,
+      "authors": "Yoonsu Park†, Seyoung Choi†, Tae Kyung Lee†, Hyung Wook Choi, Jong-kyeong Ryu, Wooseok Jeong, Yoojoong Han, Okkyun Seo, Myeong-Geun Kim, Jae Hyun Kim, Seohyeon Jang, Eungjun Lee, Subin Park, Docheon Ahn, Hyungbin Son, Sung Jong Yoo*, Inho Nam*, Don-Hyung Ha*",
+      "title": "Cobalt-Engineered Multimetallic Phosphides with Switchable HER–OER Activity for Durable Anion Exchange Membrane Water Electrolysis",
+      "journal": "Advanced Functional Materials",
+      "link": "https://doi.org/10.1002/adfm.76059",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2026",
+      "no": 60,
+      "authors": "Seokjin Hong, Gyeong Ho Han, Inho Nam, Don-Hyung Ha, Soo-Kil Kim, Sung Ki Cho, Hyun S. Park, Jong Hyun Jang, Myoung Hwan Oh*, Sang Hyun Ahn*",
+      "title": "Recent advances in ion exchange membrane-based electrochemical hydrogenation of liquid organic hydrogen carrier",
+      "journal": "Fuel",
+      "link": "https://doi.org/10.1016/j.fuel.2026.138427",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2026",
+      "no": 59,
+      "authors": "Hyeonseok Lee†, Gyuhyeon Kim†, Wooseok Jeong, Yeongbin Lee, Heesoo Jeong, Yujeong Ahn, Chanbi Kim, Don-Hyung Ha*",
+      "title": "Strategies for Enhancing SiO₂ Chemical-Mechanical Polishing (CMP): Functional Nanoparticle Abrasive Design and Integration",
+      "journal": "Chemistry – A European Journal",
+      "link": "https://doi.org/10.1002/chem.202502584",
+      "flag": "Cover selection",
+      "image": ""
+    },
+    {
+      "year": "2026",
+      "no": 58,
+      "authors": "Yeongbin Lee, Seyoung Choi, Seohyeon Jang, Byeong-Gwan Cho, Beomgyun Jeong, Yongsam Kim, Yoonsu Park, Wooseok Jeong, Yun Jae Hwang, Hyeonseok Lee, Boeun An, Heesoo Jeong, Gyuhyeon Kim, Dong-Chen Qi, Jong Hyun Jang*, Inho Nam*, Don-Hyung Ha*",
+      "title": "Colloidal phase control of Ni–P nanocrystals reveals a P-site hydrogen evolution reaction mechanism distinct from Ni-rich analogues",
+      "journal": "Journal of Materials Chemistry A, 2026, 14, 988–1000",
+      "link": "https://doi.org/10.1039/D5TA06219E",
+      "flag": "HOT Papers",
+      "image": ""
+    },
+    {
+      "year": "2025",
+      "no": 57,
+      "authors": "Gyuhyeon Kim, Wooseok Jeong, Hyeonseok Lee, Yeongbin Lee, Heesoo Jeong, Don-Hyung Ha*",
+      "title": "Heterostructure formation and chemical modulation of colloidal Au–Co–Fe nanoparticles for alkaline water oxidation",
+      "journal": "Journal of the American Ceramic Society",
+      "link": "https://doi.org/10.1111/jace.20665",
+      "flag": "Cover selection",
+      "image": ""
+    },
+    {
+      "year": "2025",
+      "no": 56,
+      "authors": "Yoonsu Park, Don-Hyung Ha*",
+      "title": "Engineered substrate-driven electrophoretic deposition of FeP nanoparticles for high-performance hydrogen evolution reaction electrodes",
+      "journal": "International Journal of Hydrogen Energy 136, 2025, 392–401",
+      "link": "https://doi.org/10.1016/j.ijhydene.2025.05.066",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2025",
+      "no": 55,
+      "authors": "Heesoo Jeong, Yoonsu Park, Yeongbin Lee, Wooseok Jeong, Hyeonseok Lee, Gyuhyeon Kim, Goohwan Kim, Hyungbin Son, Don-Hyung Ha*",
+      "title": "High-entropy CoNiFeCuP nanoparticles as efficient and durable catalysts for alkaline oxygen evolution reaction",
+      "journal": "Journal of Materials Chemistry A, 2025, 13, 16995–17005",
+      "link": "https://doi.org/10.1039/D5TA01149C",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2025",
+      "no": 54,
+      "authors": "Yun-Kun Hong, Yoonsu Park, Don-Hyung Ha*",
+      "title": "Selective synthesis of uniform iron oxide nanoparticles: Influence of precursors, temperature, and surfactant concentration",
+      "journal": "Modern Physics Letters B, 2025",
+      "link": "https://doi.org/10.1142/S0217984925501787",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2025",
+      "no": 53,
+      "authors": "Wooseok Jeong†, Hyeonseok Lee†, Yun Jae Hwang, Boeun An, Yeongbin Lee, Heesoo Jeong, Gyuhyeon Kim, Yoonsu Park, Minyoung Kim, Don-Hyung Ha*",
+      "title": "Solution processing for colloidal nanoparticle thin film: From fundamentals to applications",
+      "journal": "Advances in Colloid and Interface Science, 342, 2025, 103538",
+      "link": "https://doi.org/10.1016/j.cis.2025.103538",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2025",
+      "no": 52,
+      "authors": "Wooseok Jeong†, Yun-Kun Hong†, Hoyoung Kim, Yoonsu Park, Yun Jae Hwang, Yeongbin Lee, Goohwan Kim, Hyung Bin Son, Jinwoo Lee*, Don-Hyung Ha*",
+      "title": "Colloidal-nanoparticle-derived nickel/ferric oxide heterointerfaces for promoting the alkaline oxygen evolution reaction",
+      "journal": "Journal of Materials Chemistry A, 2025, 13, 16469–16480",
+      "link": "https://doi.org/10.1039/D4TA09280E",
+      "flag": "Inside front cover · HOT Papers",
+      "image": ""
+    },
+    {
+      "year": "2025",
+      "no": 51,
+      "authors": "Yoonsu Park†, Boeun An†, Hoyoung Kim, Wooseok Jeong, Hyeonseok Lee, Yeongbin Lee, Heesoo Jeong, Gyuhyeon Kim, Jong Hyun Jang*, Sung Jong Yoo*, Don-Hyung Ha*",
+      "title": "Ionomer-free Co-Ru based electrode for efficient proton exchange membrane water electrolysis via synergistic catalysis",
+      "journal": "Chemical Engineering Journal, 511, 2025, 161979",
+      "link": "https://doi.org/10.1016/j.cej.2025.161979",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2024",
+      "no": 50,
+      "authors": "Yeongbin Lee†, Wooseok Jeong†, Yun Jae Hwang, Boeun An, Hyeonseok Lee, Heesoo Jeong, Gyuhyeon Kim, Yoonsu Park, Minyoung Kim, Don-Hyung Ha*",
+      "title": "Basics, developments, and strategies of transition metal phosphides toward electrocatalytic water splitting: beyond noble metal catalysts",
+      "journal": "Journal of Materials Chemistry A, 2024, 12, 28574–28594",
+      "link": "https://doi.org/10.1039/D4TA04455J",
+      "flag": "Front cover selection",
+      "image": ""
+    },
+    {
+      "year": "2024",
+      "no": 49,
+      "authors": "Boeun An, Wooseok Jeong, Yun Jae Hwang, Hyeonseok Lee, Yeongbin Lee, Heesoo Jeong, Gyuhyeon Kim, Don-Hyung Ha*",
+      "title": "Kinetically controlled morphology and composition of colloidal nanoparticles: cation exchange reactions from copper sulfide to transition metal (Mn, Zn, Fe, and Co) sulfides",
+      "journal": "Dalton Transactions, 2024, 53, 14786–14794",
+      "link": "https://doi.org/10.1039/d4dt01612b",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2024",
+      "no": 48,
+      "authors": "Hyeonseok Lee†, Heesoo Jeong†, Wooseok Jeong, Yun Jae Hwang, Boeun An, Yeongbin Lee, Gyuhyeon Kim, Don-Hyung Ha*",
+      "title": "Wet Chemistry Methods for Synthesizing High-Entropy Nanoparticles: A Review of the Synthesis Strategies and Various Applications",
+      "journal": "Korean Journal of Chemical Engineering, 41, 3371–3393",
+      "link": "https://doi.org/10.1007/s11814-024-00249-4",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2024",
+      "no": 47,
+      "authors": "Yun Jae Hwang, Yoonsu Park, Wooseok Jeong, Minyoung Kim, Hyeonseok Lee, Boeun An, Yeongbin Lee, Heesoo Jeong, Gyuhyeon Kim, Jonghoon Choi, Don-Hyung Ha*",
+      "title": "Morphology Control of Au-Ni Hybrid Nanoparticles: Exploring Heterostructures and Optical Tuning",
+      "journal": "Inorganic Chemistry 63 (25), 11660–11666",
+      "link": "https://doi.org/10.1021/acs.inorgchem.4c01089",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2024",
+      "no": 46,
+      "authors": "Eunseo Hwang, Minyoung Kim, Wooseok Lee, Yoonsu Park, Wooseok Jeong, Yun Jae Hwang, Yeongbin Lee, Shinhyo Bang, Goohwan Kim, Liane M. Moreau, Hyung Bin Son, Seoin Back, Don-Hyung Ha*",
+      "title": "Cation-exchange-induced structural and chemical modulation of transition metal spinel sulfides to enhance their oxygen evolution performance",
+      "journal": "Chemical Engineering Journal 494, 152903",
+      "link": "https://doi.org/10.1016/j.cej.2024.152903",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2024",
+      "no": 45,
+      "authors": "Yoonsu Park, Kyeong-Rim Yeo, Yun Jae Hwang, Minyoung Kim, Wooseok Jeong, Soo-Kil Kim*, Don-Hyung Ha*",
+      "title": "Synergistic enhancement of surface-doped Mn and Cu-mediated hierarchical reconstruction in Co–Ni–Cu–Mn electrocatalyst for hydrogen production in proton exchange membrane water electrolyzer",
+      "journal": "Journal of Alloys and Compounds 993, 174649",
+      "link": "https://doi.org/10.1016/j.jallcom.2024.174649",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2024",
+      "no": 44,
+      "authors": "Junhyuk Ahn, Doa Kim, Junhyeok Park, Yoonji Yang, Mi-Hyun Kim, Hyung Jin Choi, Wooseok Jeong, Woo Seok Lee, Dae Yang Oh, Don-Hyung Ha*, Sung-Hoon Hong*, Soong Ju Oh*",
+      "title": "Extremely Stable Ag-Based Photonics, Plasmonic, Optical, and Electronic Materials and Devices Designed with Surface Chemistry Engineering for Anti-Tarnish",
+      "journal": "Small, 2024, 2308968",
+      "link": "https://doi.org/10.1002/smll.202308968",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2023",
+      "no": 43,
+      "authors": "Sanghyun Jeon, Junhyuk Ahn, Myung-Chul Jung, Ho Kun Woo, Junsung Bang, Byung Ku Jung, Seongkeun Oh, Sang Yeop Lee, Kyu Joon Lee, Taejong Paik, Don-Hyung Ha, Jae-Pyoung Ahn, Sohee Jeong, Dong Hoe Kim, Jun Hong Noh, Ho Seong Jang*, Myung Joon Han*, Soong Ju Oh*",
+      "title": "Defect Engineering of Metal Halide Perovskite Nanocrystals via Spontaneous Diffusion of Ag Nanocrystals",
+      "journal": "Small, 2023, 2307032",
+      "link": "https://doi.org/10.1002/smll.202307032",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2023",
+      "no": 42,
+      "authors": "Yun-Kun Hong, Hyun Tae Kim, Yoonsu Park, Wooseok Jeong, Minyoung Kim, Eunseo Hwang, Yun Jae Hwang, Min-Ho Lee, Don-Hyung Ha*",
+      "title": "Design of Eu(TTA)₃phen-incorporated SiO₂ coated transition metal oxide nanoparticles for efficient luminescence and magnetic performance",
+      "journal": "Nanoscale, 2023, 15(9), 4604–4611",
+      "link": "https://doi.org/10.1039/d2nr05439f",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2023",
+      "no": 41,
+      "authors": "Wooseok Jeong, Yoonsu Park, Yun-Kun Hong, Ildoo Kim, Hyungbin Son*, Don-Hyung Ha*",
+      "title": "How Do Colloidal Nanoparticles Move in a Solution Under an Electric Field?: In Situ Light Scattering Analysis",
+      "journal": "The Journal of Physical Chemistry Letters, 2023, 14(5), 1230–1238",
+      "link": "https://doi.org/10.1021/acs.jpclett.2c03312",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2023",
+      "no": 40,
+      "authors": "Minyoung Kim, Hyeri Kang, Eunseo Hwang, Yoonsu Park, Wooseok Jeong, Yunjae Hwang, Don-Hyung Ha*",
+      "title": "Facile colloidal synthesis of transition metal (Co, Fe, and Ni)-added Ir-W NPs for HER in acidic electrolyte",
+      "journal": "Applied Surface Science, 2023, 612, 155862",
+      "link": "https://doi.org/10.1016/j.apsusc.2022.155862",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2022",
+      "no": 39,
+      "authors": "Yoonsu Park, Wooseok Jeong, Junhyuk Ahn, Yun-Kun Hong, Eunseo Hwang, Minyoung Kim, Yun Jae Hwang, Soong Ju Oh, Don-Hyung Ha*",
+      "title": "Contact Enhancement in Nanoparticle Assemblies through Electrophoretic Deposition",
+      "journal": "ACS Omega, 2022, 7(45), 41021–41032",
+      "link": "https://doi.org/10.1021/acsomega.2c04366",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2022",
+      "no": 38,
+      "authors": "Jung Ho Bae, Suhyeon Kim, Junhyuk Ahn, Chanho Shin, Byung Ku Jung, Yong Min Lee, Yun Kun Hong, Woosik Kim, Don Hyung Ha, Tse Nga Ng, Jiwan Kim*, Soong Ju Oh*",
+      "title": "Acid–Base Reaction-Assisted Quantum Dot Patterning via Ligand Engineering and Photolithography",
+      "journal": "ACS Applied Materials & Interfaces, 2022, 47831–47840",
+      "link": "https://doi.org/10.1021/acsami.2c10297",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2022",
+      "no": 37,
+      "authors": "Minyoung Kim, Yoonsu Park, Taegyeom Lee, Yun-Kun Hong, Don-Hyung Ha*",
+      "title": "Transition-metal-incorporated molybdenum phosphide nanocatalysts synthesized through post-synthetic transformation for the hydrogen evolution reaction",
+      "journal": "International Journal of Energy Research, 46, 2022, 17668–17681",
+      "link": "https://doi.org/10.1002/er.8344",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2022",
+      "no": 36,
+      "authors": "Yoonsu Park, Hoyoung Kim, Taegyeom Lee, Yun-Kun Hong, Wooseok Jeong, Soo-Kil Kim, Don-Hyung Ha*",
+      "title": "Design of Nanocatalyst for Electrode Structure: Electrophoretic Deposition of Iron Phosphide Nanoparticles to Produce a Highly Active Hydrogen Evolution Reaction Catalyst",
+      "journal": "Chemical Engineering Journal, 431, 2022, 133217",
+      "link": "https://doi.org/10.1016/j.cej.2021.133217",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2022",
+      "no": 35,
+      "authors": "Taegyeom Lee, Yoonsu Park, Hoyoung Kim, Yun-Kun Hong, Eunseo Hwang, Minyoung Kim, Soo-Kil Kim*, Don-Hyung Ha*",
+      "title": "Restructured Co-Ru alloys via electrodeposition for efficient hydrogen production in proton exchange membrane water electrolyzers",
+      "journal": "International Journal of Energy Research, 46, 2022, 7975–7987",
+      "link": "https://doi.org/10.1002/er.7699",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2022",
+      "no": 34,
+      "authors": "Jonathan Schwartz, Zichao Wendy Di, Yi Jiang, Alyssa J. Fielitz, Don-Hyung Ha, Sanjaya D. Perera, Ismail El Baggari, Richard D. Robinson, Jeffrey A. Fessler, Colin Ophus, Steve Rozeveld, Robert Hovden*",
+      "title": "Imaging atomic-scale chemistry from fused multi-modal electron microscopy",
+      "journal": "npj Computational Materials, 8, Article 16, 2022",
+      "link": "https://doi.org/10.1038/s41524-021-00692-5",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2021",
+      "no": 33,
+      "authors": "Eunseo Hwang, Yoonsu Park, Jongbae Kim, Taejong Paik, Don-Hyung Ha*",
+      "title": "Facile Sulfurization under Ambient Condition with Na₂S to Fabricate Nanostructured Copper sulfide",
+      "journal": "Nanomaterials, 11, 2021, 2317",
+      "link": "https://doi.org/10.3390/nano11092317",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2021",
+      "no": 32,
+      "authors": "Yun-Kun Hong, Yoonsu Park, Hyeri Kang, Hyungbin Son*, Don-Hyung Ha*",
+      "title": "Nanoparticle transformation from ZnO to ZnS through anion exchange with di-tert-butyl disulphide",
+      "journal": "Dalton Transactions, 50, 2021, 2192–2199",
+      "link": "https://doi.org/10.1039/d0dt03940c",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2021",
+      "no": 31,
+      "authors": "Ramya Chandrasekaran, Thiagarajan Madheswaran, Nagendran Tharmalingam, Rajendran JC Bose, Hansoo Park*, Don-Hyung Ha*",
+      "title": "Labeling and tracking cells with gold nanoparticles",
+      "journal": "Drug Discovery Today, 26, 2021, 94–105",
+      "link": "https://doi.org/10.1016/j.drudis.2020.10.020",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2021",
+      "no": 30,
+      "authors": "Yoonsu Park, Hyeri Kang, Wooseok Jeong, Hyungbin Son*, Don-Hyung Ha*",
+      "title": "Electrophoretic Deposition of Aged and Charge Controlled Colloidal Copper Sulfide Nanoparticles",
+      "journal": "Nanomaterials, 11, 2021, 133",
+      "link": "https://doi.org/10.3390/nano11010133",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2021",
+      "no": 29,
+      "authors": "Hyeri Kang, Yoonsu Park, Yun-Kun Hong, Songhun Yoon, Min-Ho Lee, Don-Hyung Ha*",
+      "title": "Solvent-Induced Charge Formation and Electrophoretic Deposition of Colloidal Iron Oxide Nanoparticles",
+      "journal": "Surfaces and Interfaces, 22, 2021, 100815",
+      "link": "https://doi.org/10.1016/j.surfin.2020.100815",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2020",
+      "no": 28,
+      "authors": "Hyeri Kang†, Taegyeom Lee†, Yoonsu Park, Yun-Kun Hong, Miri Choi, Jiung Cho, Don-Hyung Ha*",
+      "title": "Colloidal synthetic methods of amorphous molybdenum phosphide nanoparticles for hydrogen evolution reaction catalysts",
+      "journal": "Korean Journal of Chemical Engineering, 37, 2020, 1419–1426",
+      "link": "https://doi.org/10.1007/s11814-020-0576-4",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2020",
+      "no": 27,
+      "authors": "Yoonsu Park, Hyeri Kang, Yun-kun Hong, Geonhee Cho, Miri Choi, Jiung Cho, Don-Hyung Ha*",
+      "title": "Influence of the phosphorus source on iron phosphide nanoparticle synthesis for hydrogen evolution reaction catalysis",
+      "journal": "International Journal of Hydrogen Energy, 45, 2020, 32780–32788",
+      "link": "https://doi.org/10.1016/j.ijhydene.2020.03.051",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2020",
+      "no": 26,
+      "authors": "Geonhee Cho†, Yoonsu Park†, Hyeri Kang, Yun-kun Hong, Taegyeom Lee, Don-Hyung Ha*",
+      "title": "Transition metal-doped FeP nanoparticles for hydrogen evolution reaction catalysis",
+      "journal": "Applied Surface Science, 510, 2020, 145427",
+      "link": "https://doi.org/10.1016/j.apsusc.2020.145427",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2019",
+      "no": 25,
+      "authors": "Ho Kun Woo, Min Su Kang, Taesung Park, Junsung Bang, Sanghyun Jeon, Woo Seok Lee, Junhyuk Ahn, Geonhee Cho, Dong-Kyun Ko, Younghoon Kim, Don-Hyung Ha, Soong Ju Oh*",
+      "title": "Colloidal-annealing of ZnO nanoparticles to passivate traps and improve charge extraction in colloidal quantum dot solar cells",
+      "journal": "Nanoscale, 2019, 11, 17498–17505",
+      "link": "https://doi.org/10.1039/C9NR06346C",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2019",
+      "no": 24,
+      "authors": "Na-Won Lee, Ki Ro Yoon, Jae-Yun Lee, Yoonsu Park, Seong-Ji Pyo, Ga-Yoon Kim, Don-Hyung Ha, Won-Hee Ryu*",
+      "title": "Highly Conductive Off-Stoichiometric Zirconium Oxide Nanofiber with Controllable Crystalline Structures and Bandgaps and Improved Electrochemical Activities",
+      "journal": "ACS Applied Energy Materials, 2(5), 2019, 3513–3522",
+      "link": "https://doi.org/10.1021/acsaem.9b00283",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2019",
+      "no": 23,
+      "authors": "Geonhee Cho†, Yoonsu Park†, Yun-kun Hong†, Don-Hyung Ha*",
+      "title": "Ion exchange: an advanced synthetic method for complex nanoparticles",
+      "journal": "Nano Convergence, 6, Article 17, 2019",
+      "link": "https://doi.org/10.1186/s40580-019-0187-0",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2019",
+      "no": 22,
+      "authors": "Woo Seok Lee, D. Kim, B. Park, H. Joh, Ho Kun Woo, Yun-Kun Hong, T. Kim, Don-Hyung Ha*, Soong Ju Oh*",
+      "title": "Multiaxial and Transparent Strain Sensors Based on Synergetically Reinforced and Orthogonally Cracked Hetero-Nanocrystal Solids",
+      "journal": "Advanced Functional Materials, 2019, 29, 1806714",
+      "link": "https://doi.org/10.1002/adfm.201806714",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2018",
+      "no": 21,
+      "authors": "Eun Sung Kang, Yong-Tae Kim, Young-Seon Ko, Nam Hyeong Kim, Geonhee Cho, Yang Hoon Huh, Ji-Hun Kim, Jiyoung Nam, Trung Thanh Thach, David Youn, Young Dok Kim, Wan Soo Yun, William F. DeGrado, Sung Yeol Kim, Paula T. Hammond, Jaeyoung Lee, Young-Uk Kwon, Don-Hyung Ha*, Yong Ho Kim*",
+      "title": "Peptide-Programmable Nanoparticle Superstructures with Tailored Electrocatalytic Activity",
+      "journal": "ACS Nano, 2018, 12(7), 6554–6562",
+      "link": "https://doi.org/10.1021/acsnano.8b01146",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2018",
+      "no": 20,
+      "authors": "Geonhee Cho, Hoyoung Kim, Yoon Su Park, Yun-Kun Hong, Don-Hyung Ha*",
+      "title": "Phase transformation of iron phosphide nanoparticles for hydrogen evolution reaction electrocatalysis",
+      "journal": "International Journal of Hydrogen Energy, 24, 2018, 11326–11334",
+      "link": "https://doi.org/10.1016/j.ijhydene.2018.02.197",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2018",
+      "no": 19,
+      "authors": "Hyeonjung Park, S. Choe, H. Kim, D.-K. Kim, Geonhee Cho, Yoonsu Park, Jong Hyun Jang, Don-Hyung Ha*, Sang Hyun Ahn*, Soo-Kil Kim*",
+      "title": "Direct fabrication of gas diffusion cathode by pulse electrodeposition for proton exchange membrane water electrolysis",
+      "journal": "Applied Surface Science, 2018, 444, 303–311",
+      "link": "https://doi.org/10.1016/j.apsusc.2018.03.071",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2018",
+      "no": 18,
+      "authors": "Yun-Kun Hong, Geonhee Cho, Yoonsu Park, S. Oh, Don-Hyung Ha*",
+      "title": "Trioctylphosphine-assisted morphology control of ZnO nanoparticles",
+      "journal": "Nanotechnology, 2018, 29(22), 225602",
+      "link": "https://doi.org/10.1088/1361-6528/aab4c6",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2017",
+      "no": 17,
+      "authors": "Hyeonjung Park, J. Choi, H. Kim, Eunseo Hwang, Don-Hyung Ha, Sang Hyun Ahn, Soo-Kil Kim",
+      "title": "AgIn dendrite catalysts for electrochemical reduction of CO₂ to CO",
+      "journal": "Applied Catalysis B: Environmental, 2017, 219, 123–131",
+      "link": "https://doi.org/10.1016/j.apcatb.2017.07.038",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2016",
+      "no": 16,
+      "authors": "A. Nelson†, Don-Hyung Ha†, Richard D. Robinson",
+      "title": "Selective Etching of Copper Sulfide Nanoparticles and Heterostructures through Sulfur Abstraction: Phase Transformations and Optical Properties",
+      "journal": "Chemistry of Materials, 28, 8530–8541 (2016)",
+      "link": "https://doi.org/10.1021/acs.chemmater.6b02764",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2016",
+      "no": 15,
+      "authors": "Don-Hyung Ha†, M. Risch†, B. Han†, L. Giordano, K. P. C. Yao, Yang Shao-Horn",
+      "title": "Activity and Stability of Cobalt Phosphides for Hydrogen Evolution Upon Water Splitting",
+      "journal": "Nano Energy, 29, 37–45 (2016)",
+      "link": "https://doi.org/10.1016/j.nanoen.2016.04.034",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2015",
+      "no": 14,
+      "authors": "Don-Hyung Ha†, T. Ly†, J. M. Caron, H. Zhang, K. E. Fritz, Richard D. Robinson",
+      "title": "A General Method for High-Performance, Additive-Free Li-Ion Battery Electrodes from Colloidal Nanoparticles: The Case of MnS, Cu₂₋ₓS, and Ge",
+      "journal": "ACS Applied Materials & Interfaces, 7, 25053 (2015)",
+      "link": "https://doi.org/10.1021/acsami.5b03398",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2014",
+      "no": 13,
+      "authors": "Don-Hyung Ha, A. H. Caldwell, M. J. Ward, S. Honrao, K. Mathew, R. Hovden, M. K. A. Koker, D. A. Muller, R. G. Hennig, Richard D. Robinson",
+      "title": "Solid-Solid Phase Transformations Induced through Cation Exchange and Strain in 2D Heterostructured Copper Sulfide Nanocrystals",
+      "journal": "Nano Letters, 14, 7090 (2014)",
+      "link": "https://doi.org/10.1021/nl5035607",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2014",
+      "no": 12,
+      "authors": "O. O. Otelaja, Don-Hyung Ha, T. Ly, H. Zhang, Richard D. Robinson",
+      "title": "Highly Conductive Cu₂₋ₓS Nanoparticle Films through Room Temperature Processing and an Order of Magnitude Enhancement of Conductivity via Electrophoretic Deposition",
+      "journal": "ACS Applied Materials & Interfaces, 6, 18911 (2014)",
+      "link": "https://doi.org/10.1021/am504785f",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2013",
+      "no": 11,
+      "authors": "Don-Hyung Ha, L. M. Moreau, S. Honrao, R. G. Hennig, Richard D. Robinson",
+      "title": "The Oxidation of Cobalt Nanoparticles into Kirkendall-Hollowed CoO and Co₃O₄: the Diffusion Mechanisms and Atomic Structural Transformations",
+      "journal": "Journal of Physical Chemistry C, 117, 14303 (2013)",
+      "link": "https://doi.org/10.1021/jp402939e",
+      "flag": "Cover selection",
+      "image": ""
+    },
+    {
+      "year": "2013",
+      "no": 10,
+      "authors": "L. M. Moreau†, Don-Hyung Ha†, H. Zhang, R. Hovden, D. A. Muller, Richard D. Robinson",
+      "title": "Defining Crystalline/Amorphous Phases of Nanoparticles through X-ray Absorption Spectroscopy and X-ray Diffraction: The Case of Nickel Phosphide",
+      "journal": "Chemistry of Materials, 25, 2394 (2013)",
+      "link": "https://doi.org/10.1021/cm303490y",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2012",
+      "no": 9,
+      "authors": "Don-Hyung Ha, M. A. Islam, Richard D. Robinson",
+      "title": "Binder-Free and Carbon-Free Nanoparticle Batteries: A Method for Nanoparticle Electrodes without Polymeric Binders or Carbon Black",
+      "journal": "Nano Letters, 12, 5122 (2012)",
+      "link": "https://doi.org/10.1021/nl3019559",
+      "flag": "",
+      "image": ""
+    },
+    {
+      "year": "2012",
+      "no": 8,
+      "authors": "L. M. Moreau†, Don-Hyung Ha†, C. R. Bealing, H. Zhang, R. G. Hennig, Richard D. Robinson",
+      "title": "Unintended Phosphorus Doping of Nickel Nanoparticles during Synthesis with TOP: A Discovery through Structural Analysis",
+      "journal": "Nano Letters, 12, 4530 (2012)",
+      "link": "https://doi.org/10.1021/nl301642g",
+      "flag": "NSF Research 하이라이트",
+      "image": ""
+    },
+    {
+      "year": "2011",
+      "no": 7,
+      "authors": "Don-Hyung Ha, L. M. Moreau, C. R. Bealing, H. Zhang, R. G. Hennig, Richard D. Robinson",
+      "title": "The structural evolution and diffusion during the chemical transformation from cobalt to cobalt phosphide nanoparticles",
+      "journal": "Journal of Materials Chemistry, 21, 11498 (2011)",
+      "link": "https://doi.org/10.1039/C1JM10337G",
+      "flag": "Hot Article · Inside cover",
+      "image": ""
+    },
+    {
+      "year": "2011",
+      "no": 6,
+      "authors": "H. Zhang, Don-Hyung Ha, R. Hovden, L. F. Kourkoutis, Richard D. Robinson",
+      "title": "Controlled Synthesis of Uniform Cobalt Phosphide Hyperbranched Nanocrystals Using Tri-n-octylphosphine Oxide as a Phosphorus Source",
+      "journal": "Nano Letters, 11, 188 (2011)",
+      "link": "https://doi.org/10.1021/nl103400a",
+      "flag": "",
+      "image": ""
+    }
+  ],
+  "patents": [
+    {
+      "title": "전기영동증착법을 이용한 나노입자 3차원 구조체 증착 방법 및 이에 의해 제조된 수소 발생 반응용 전극",
+      "authors": "하돈형, 김수길, 박윤수, 김호영, 이태겸, 정우석, 홍윤건",
+      "no": "특허출원 10-2021-0156472",
+      "region": "KR"
+    },
+    {
+      "title": "Binder Free and Carbon Free Nanoparticle Containing Component, Method and Applications",
+      "authors": "R. D. Robinson, D.-H. Ha",
+      "no": "WO2014025743 A1 · US20150188128 A1",
+      "region": "US"
+    },
+    {
+      "title": "Heterostructure Nanostructure Including 2D Atomic Phase Composition, Related Methods and Applications",
+      "authors": "R. D. Robinson, D.-H. Ha",
+      "no": "U.S. Provisional Application 62/058,728",
+      "region": "US"
+    }
+  ]
+}

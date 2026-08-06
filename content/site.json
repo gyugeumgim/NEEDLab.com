@@ -1,0 +1,24 @@
+{
+  "labName": "NEED Lab",
+  "labFull": "Nano Materials Electrochemical Energy Design Laboratory",
+  "koName": "나노소재 · 전기화학 에너지 설계 연구실",
+  "affiliation": "Chung-Ang University · School of Integrative Engineering",
+  "tags": [
+    "Fuel Cell",
+    "Water Electrolysis",
+    "Battery",
+    "Thin Film",
+    "X-ray Analysis"
+  ],
+  "introEn": [
+    "We develop synthetic routes for a wide range of novel nanomaterials and apply them to electrochemical energy technologies — fuel cells, water electrolysis and batteries.",
+    "Through thin-film processing and X-ray characterization of the materials we synthesize, we work to push the performance of these devices further."
+  ],
+  "email": "dhha@cau.ac.kr",
+  "tel": "02-820-5565",
+  "address": "서울특별시 동작구 흑석로 84",
+  "addressDetail": "중앙대학교 융합공학부 · 310관 840호",
+  "recruiting": "학부 인턴과 대학원 진학에 관심 있는 학생을 상시 모집합니다. 아래 양식을 채우면 하돈형 교수에게 바로 메일이 전송됩니다.",
+  "heroPhoto": "",
+  "labPhotos": []
+}

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="ko"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Album · NEED Lab</title>
+<meta name="description" content="NEED Lab 연구실 사진">
+<meta property="og:title" content="Album · NEED Lab">
+<meta property="og:description" content="NEED Lab 연구실 사진">
+<meta property="og:type" content="website">
+<link rel="icon" href="assets/img/emblem.png">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet"><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable.min.css"><link rel="stylesheet" href="assets/css/style.css">
+</head><body>
+<a href="#main" class="sr">본문으로 건너뛰기</a>
+<header class="head"><div class="wrap head-in">
+  <a class="brand" href="index.html"><img src="assets/img/logo-mark.png" alt="NEED Lab"></a>
+  <button class="navtoggle" aria-controls="nav" aria-expanded="false">MENU</button>
+  <nav class="nav" id="nav" aria-label="주요 메뉴">
+    <a href="index.html">Home</a>
+    <div class="navitem">
+      <a href="research.html">Research</a>
+      <div class="submenu">
+        <a href="research.html">Overview</a>
+        <a href="research-synthesis.html">Nanoparticle Synthesis and Design</a>
+        <a href="research-epd.html">Electrophoretic Deposition</a>
+        <a href="research-conversion.html">Electrochemical Energy Conversion</a>
+      </div>
+    </div>
+    <a href="news.html">News</a>
+    <a href="album.html" aria-current="page">Album</a>
+    <div class="navitem">
+      <a href="members.html">Members</a>
+      <div class="submenu">
+        <a href="members.html">Professor</a>
+        <a href="members-students.html">Students</a>
+        <a href="members-alumni.html">Alumni</a>
+      </div>
+    </div>
+    <a href="publications.html">Publications</a>
+  </nav>
+</div></header>
+<main id="main">
+  <section class="banner"><div class="wrap"><h1>Album</h1><p>학회, 졸업식, 워크숍의 기록입니다.</p></div></section>
+  <section class="sec"><div class="wrap">
+    <p class="lab">Album</p><h2>연구실 앨범</h2>
+    <p class="sub">앨범을 누르면 사진을 넘겨볼 수 있습니다.</p>
+    <div id="album-list"></div>
+  </div></section>
+
+  <div class="lb" id="lb" hidden role="dialog" aria-modal="true" aria-labelledby="lb-year">
+    <div class="lb-card">
+      <div class="lb-head"><span class="yr" id="lb-year"></span>
+        <span class="cnt" id="lb-cnt"></span>
+        <button class="lb-close" id="lb-close" aria-label="닫기">✕</button></div>
+      <div class="lb-body">
+        <button class="lb-nav lb-prev" id="lb-prev" aria-label="이전 사진">‹</button>
+        <div class="lb-slide" id="lb-slide"></div>
+        <button class="lb-nav lb-next" id="lb-next" aria-label="다음 사진">›</button>
+      </div>
+      <div class="lb-foot"><p class="lb-cap" id="lb-cap"></p><div class="lb-dots" id="lb-dots"></div></div>
+    </div>
+  </div>
+
+</main>
+<footer class="foot"><div class="wrap">
+  <div class="foot-in">
+    <div>
+      <img class="fl" src="assets/img/logo-mark-white.png" alt="NEED Lab">
+      <strong>NEED Lab</strong>
+      <p style="margin:0 0 4px">Nano Materials Electrochemical Energy Design Laboratory</p>
+      <p style="margin:0 0 4px" data-site="addressDetail">중앙대학교 융합공학부 · 310관 840호</p>
+      <p style="margin:0 0 4px" data-site="address">서울특별시 동작구 흑석로 84</p>
+      <p style="margin:0">Tel <span data-site="tel">02-820-5565</span> ·
+        <a data-mail href="mailto:dhha@cau.ac.kr" data-site="email">dhha@cau.ac.kr</a></p>
+    </div>
+    <nav aria-label="바로가기">
+      <strong>Menu</strong>
+      <a href="research.html">Research</a><a href="news.html">News</a>
+      <a href="album.html">Album</a><a href="members.html">Members</a>
+      <a href="publications.html">Publications</a>
+    </nav>
+    <div><img class="fc" src="assets/img/cau-white.png" alt="중앙대학교"></div>
+  </div>
+  <div class="foot-bot">
+    <span>© <span id="yr">2026</span> NEED LAB · CHUNG-ANG UNIVERSITY</span>
+    <span>Chung-Ang University</span>
+  </div>
+</div></footer>
+<script src="assets/js/content-data.js"></script>
+<script src="assets/js/site.js"></script>
+</body></html>

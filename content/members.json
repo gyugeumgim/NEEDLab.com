@@ -1,0 +1,180 @@
+{
+  "professor": {
+    "name": "하돈형",
+    "nameEn": "Don-Hyung Ha",
+    "role": "교수 · 중앙대학교 융합공학부",
+    "office": "310관 840호 · 서울특별시 동작구 흑석로 84",
+    "tel": "02-820-5565",
+    "email": "dhha@cau.ac.kr",
+    "scholar": "https://scholar.google.com/citations?user=nxFTyv8AAAAJ",
+    "photo": "",
+    "cv": [
+      {
+        "year": "2014.10–2016.02",
+        "title": "Postdoctoral Associate, MIT",
+        "note": "Electrochemical Energy Lab · Advisor: Yang Shao-Horn"
+      },
+      {
+        "year": "2014.09",
+        "title": "Ph.D., Cornell University, Materials Science and Engineering",
+        "note": "Advisor: Richard D. Robinson"
+      },
+      {
+        "year": "2009",
+        "title": "M.S., University of Pennsylvania, Materials Science and Engineering",
+        "note": "Advisor: Christopher B. Murray"
+      },
+      {
+        "year": "2007",
+        "title": "B.S., Korea University, Materials Science and Engineering",
+        "note": ""
+      }
+    ]
+  },
+  "students": [
+    {
+      "name": "이현석",
+      "nameEn": "Lee, Hyunseok",
+      "role": "박사과정",
+      "degree": "graduate",
+      "photo": ""
+    },
+    {
+      "name": "이영빈",
+      "nameEn": "Lee, Yeongbin",
+      "role": "박사과정",
+      "degree": "graduate",
+      "photo": ""
+    },
+    {
+      "name": "전성균",
+      "nameEn": "Jeon, Seonggyun",
+      "role": "석박사통합과정",
+      "degree": "graduate",
+      "photo": ""
+    },
+    {
+      "name": "안유정",
+      "nameEn": "Ahn, Yujeong",
+      "role": "석사과정",
+      "degree": "graduate",
+      "photo": ""
+    },
+    {
+      "name": "김찬비",
+      "nameEn": "Kim, Chanbi",
+      "role": "석사과정",
+      "degree": "graduate",
+      "photo": ""
+    },
+    {
+      "name": "노은수",
+      "nameEn": "Noh, Eunsu",
+      "role": "석사과정",
+      "degree": "graduate",
+      "photo": ""
+    },
+    {
+      "name": "윤승연",
+      "nameEn": "Yoon, Seungyeon",
+      "role": "석사과정",
+      "degree": "graduate",
+      "photo": ""
+    },
+    {
+      "name": "김규은",
+      "nameEn": "Kim, Gyueun",
+      "role": "학부연구생",
+      "degree": "undergraduate",
+      "photo": ""
+    },
+    {
+      "name": "윤혁규",
+      "nameEn": "Yun, Hyeok Gyu",
+      "role": "학부연구생",
+      "degree": "undergraduate",
+      "photo": ""
+    },
+    {
+      "name": "이도건",
+      "nameEn": "Lee, Do Geon",
+      "role": "학부연구생",
+      "degree": "undergraduate",
+      "photo": ""
+    }
+  ],
+  "alumni": [
+    {
+      "name": "홍윤건",
+      "nameEn": "Hong, Yun-Kun",
+      "degree": "Ph.D.",
+      "now": "Post-doc, 한국과학기술연구원(KIST)"
+    },
+    {
+      "name": "박윤수",
+      "nameEn": "Park, Yoonsu",
+      "degree": "Ph.D.",
+      "now": "롯데에너지머티리얼즈"
+    },
+    {
+      "name": "정우석",
+      "nameEn": "Jeong, Wooseok",
+      "degree": "Ph.D.",
+      "now": "에코프로머티리얼즈"
+    },
+    {
+      "name": "조건희",
+      "nameEn": "Cho, Geonhee",
+      "degree": "M.S.",
+      "now": "현대자동차"
+    },
+    {
+      "name": "강혜리",
+      "nameEn": "Kang, Hyeri",
+      "degree": "M.S.",
+      "now": "현대자동차"
+    },
+    {
+      "name": "이태겸",
+      "nameEn": "Lee, Taegyeom",
+      "degree": "M.S.",
+      "now": "LG에너지솔루션"
+    },
+    {
+      "name": "황은서",
+      "nameEn": "Hwang, Eunseo",
+      "degree": "M.S.",
+      "now": "삼성전자"
+    },
+    {
+      "name": "김민영",
+      "nameEn": "Kim, Minyoung",
+      "degree": "M.S.",
+      "now": "Ph.D. Course, Purdue University"
+    },
+    {
+      "name": "황윤재",
+      "nameEn": "Hwang, Yun Jae",
+      "degree": "M.S.",
+      "now": "램리서치"
+    },
+    {
+      "name": "안보은",
+      "nameEn": "An, Boeun",
+      "degree": "M.S.",
+      "now": "LG에너지솔루션"
+    },
+    {
+      "name": "정희수",
+      "nameEn": "Jeong, Heesoo",
+      "degree": "M.S.",
+      "now": ""
+    },
+    {
+      "name": "김규현",
+      "nameEn": "Kim, Gyuhyeon",
+      "degree": "M.S.",
+      "now": "SK하이닉스"
+    }
+  ]
+}

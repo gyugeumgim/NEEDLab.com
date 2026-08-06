@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "date": "2026.01",
+      "badge": "수상",
+      "text": "이현석 학생, 한국전기전자재료학회 구두발표 최우수상",
+      "link": "news.html"
+    },
+    {
+      "date": "2026.01",
+      "badge": "논문",
+      "text": "Small 게재 — Ni–P Nanoarray Scaffolds for AEM Water Electrolysis",
+      "link": "publications.html"
+    },
+    {
+      "date": "2026.01",
+      "badge": "수상",
+      "text": "안유정 학생, 한국전기전자재료학회 포스터 최우수상",
+      "link": "news.html"
+    },
+    {
+      "date": "2026",
+      "badge": "논문",
+      "text": "J. Mater. Chem. A HOT Paper 선정 — Ni–P 나노결정 상 제어",
+      "link": "publications.html"
+    },
+    {
+      "date": "2025.11",
+      "badge": "수상",
+      "text": "이현석 학생, ICAE 포스터 세션 은상",
+      "link": "news.html"
+    },
+    {
+      "date": "상시",
+      "badge": "모집",
+      "text": "학부 인턴 · 대학원 진학 희망 학생을 모집합니다",
+      "link": "index.html#join"
+    }
+  ]
+}
